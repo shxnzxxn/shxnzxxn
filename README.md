@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Contact Me</h3>
 <div align="center" style="text-decoration: none; color: inherit;">
-  <a href="https://https://studyblog4244.tistory.com">
+  <a href="https://studyblog4244.tistory.com">
     <img src="https://img.shields.io/badge/tistory-ffffff.svg?style=for-the-badge&logo=tistory&logoColor=000000" alt="Tistory"/>
   </a>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
