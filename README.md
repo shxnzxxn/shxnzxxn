@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shxnzxxn&show_icons=true&theme=graywhite" alt="Anurag's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shxnzxxn&show_icons=true&theme=graywhite" alt="Shxnzxxn's GitHub stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shxnzxxn&layout=compact" alt="Shxnzxxn's Language stats"/>
 </div>
 
 <h3 align="center">Good at</h3>
